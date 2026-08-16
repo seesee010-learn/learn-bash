@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source ./lib/greetings
+
+goodbye abc
+goodbye def
+goodbye buddy
+
